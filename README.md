@@ -1,2 +1,0 @@
-# newwebproject
-welcome devops
